@@ -2,8 +2,8 @@
 Changelog for package rosweb
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.3 (2018-03-14)
+------------------
 * update package.xml files to make David Feil-Seifer the official maintainer
 * Contributors: David Feil-Seifer
 
