@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 2.8.3)
 project(webui)
-find_package(catkin REQUIRED COMPONENTS web_msgs roslib rospy rosservice launchman pyclearsilver std_msgs std_srvs diagnostic_msgs rosweb)
+find_package(catkin REQUIRED COMPONENTS web_msgs roslib rospy rosservice launchman pyclearsilver std_msgs std_srvs diagnostic_msgs rosweb ros_apache2)
 
 # include_directories(include ${Boost_INCLUDE_DIR} ${catkin_INCLUDE_DIRS})## Generate added messages and services with any dependencies listed here
 #generate_messages(

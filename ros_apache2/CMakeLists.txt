@@ -1,9 +1,9 @@
 cmake_minimum_required(VERSION 2.8.3)
 project(ros_apache2)
-find_package(catkin REQUIRED COMPONENTS webui)
+find_package(catkin REQUIRED)
 
 catkin_package(
-    DEPENDS webui
+    DEPENDS #webui
     CATKIN_DEPENDS # TODO
     INCLUDE_DIRS # TODO include
     LIBRARIES # TODO

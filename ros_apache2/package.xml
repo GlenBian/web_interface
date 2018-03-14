@@ -9,8 +9,4 @@
   <author email="dash@clearpathrobotics.com">Devon Ash</author>
   <buildtool_depend>catkin</buildtool_depend>
 
-  <build_depend>webui</build_depend>
-
-  <run_depend>webui</run_depend>
-
 </package>
