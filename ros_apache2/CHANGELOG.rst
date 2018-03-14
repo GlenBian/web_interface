@@ -2,6 +2,12 @@
 Changelog for package ros_apache2
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* update package.xml files to make David Feil-Seifer the official maintainer
+* update package dependencies for bloom compile
+* Contributors: David Feil-Seifer
+
 1.0.2 (2015-06-18)
 ------------------
 * version inc
