@@ -2,8 +2,8 @@
 Changelog for package web_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.4 (2018-03-14)
+------------------
 * removed tmp files
 * Contributors: David Feil-Seifer
 
