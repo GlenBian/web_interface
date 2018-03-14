@@ -2,6 +2,11 @@
 Changelog for package image_stream
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* change image_stream dependency from opencv2 to opencv3 (fedora compatibility issue in indigo)
+* Contributors: David Feil-Seifer
+
 1.0.4 (2018-03-14)
 ------------------
 * removed tmp files
