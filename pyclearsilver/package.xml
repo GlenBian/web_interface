@@ -2,7 +2,7 @@
   <name>pyclearsilver</name>
   <version>1.0.2</version>
   <description>A bunch of libraries to interface clearsilver with python and many databases.</description>
-  <maintainer email="dash@clearpathrobotics.com">Devon Ash</maintainer>
+  <maintainer email="dave@cse.unr.edu">David Feil-Seifer</maintainer>
 
   <license>BSD</license>
   <url type="website">http://ros.org/wiki/pyclearsilver</url>

@@ -5,7 +5,7 @@
 
   <license>BSD</license>
 
-  <maintainer email="dash@clearpathrobotics.com">Devon Ash</maintainer>
+  <maintainer email="dave@cse.unr.edu">David Feil-Seifer</maintainer>
   <author email="dash@clearpathrobotics.com">Devon Ash</author>
   <buildtool_depend>catkin</buildtool_depend>
 
