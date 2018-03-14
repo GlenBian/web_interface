@@ -2,6 +2,12 @@
 Changelog for package ros_apache2
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* removed unneeded link to apache mod file no longer present in ubuntu 14.04
+* removed tmp files
+* Contributors: David Feil-Seifer
+
 1.0.3 (2018-03-14)
 ------------------
 * update package.xml files to make David Feil-Seifer the official maintainer

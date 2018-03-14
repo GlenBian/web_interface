@@ -2,6 +2,9 @@
 Changelog for package webui
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 1.0.3 (2018-03-14)
 ------------------
 * update package dependencies for bloom compile

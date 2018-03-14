@@ -2,6 +2,11 @@
 Changelog for package launchman
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* removed tmp files
+* Contributors: David Feil-Seifer
+
 1.0.3 (2018-03-14)
 ------------------
 
