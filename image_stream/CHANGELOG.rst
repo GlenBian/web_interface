@@ -2,8 +2,8 @@
 Changelog for package image_stream
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.5 (2018-03-14)
+------------------
 * change image_stream dependency from opencv2 to opencv3 (fedora compatibility issue in indigo)
 * Contributors: David Feil-Seifer
 
