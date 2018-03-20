@@ -2,6 +2,11 @@
 Changelog for package image_stream
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* updated maintainer for web_interface packages
+* Contributors: David Feil-Seifer
+
 1.0.5 (2018-03-14)
 ------------------
 * change image_stream dependency from opencv2 to opencv3 (fedora compatibility issue in indigo)
