@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>web_interface</name>
-  <version>1.0.5</version>
+  <version>1.0.6</version>
   <description>The web_interface package</description>
 
   <maintainer email="dave@cse.unr.edu">David Feil-Seifer</maintainer>

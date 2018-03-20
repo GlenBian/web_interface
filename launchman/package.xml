@@ -1,6 +1,6 @@
 <package>
   <name>launchman</name>
-  <version>1.0.5</version>
+  <version>1.0.6</version>
   <description>Launch Manager</description>
   <maintainer email="dave@cse.unr.edu">Dave Feil-Seifer</maintainer>
   <license>BSD</license>

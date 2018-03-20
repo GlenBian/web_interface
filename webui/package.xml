@@ -1,6 +1,6 @@
 <package>
   <name>webui</name>
-  <version>1.0.5</version>
+  <version>1.0.6</version>
   <description>A web interface to install and launch applications for the PR2.</description>
   <maintainer email="dave@cse.unr.edu">Dave Feil-Seifer</maintainer>
 

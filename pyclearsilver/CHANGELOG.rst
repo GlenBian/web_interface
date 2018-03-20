@@ -2,8 +2,8 @@
 Changelog for package pyclearsilver
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.6 (2018-03-20)
+------------------
 * updated maintainer for web_interface packages
 * Contributors: David Feil-Seifer
 
