@@ -4,6 +4,8 @@ Changelog for package ros_apache2
 
 Forthcoming
 -----------
+* ros_apache2: updated dependencies to include necessary apache2 mod-python
+* Contributors: David Feil-Seifer
 
 1.0.6 (2018-03-20)
 ------------------
