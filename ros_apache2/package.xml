@@ -9,4 +9,7 @@
   <author email="dash@clearpathrobotics.com">Devon Ash</author>
   <buildtool_depend>catkin</buildtool_depend>
 
+  <build_depend>apache2</build_depend>
+  <build_depend>libapache2-mod-python</build_depend>
+
 </package>
