@@ -2,8 +2,8 @@
 Changelog for package image_stream
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.7 (2018-03-21)
+------------------
 * ros_apache2: updated dependencies to include necessary apache2 mod-python
 * Contributors: David Feil-Seifer
 
